@@ -1,10 +1,8 @@
 ###################
-madpharma-pharmacy management system
+gencare-pharmacy-system
 ###################
 
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
 
-Visit Urls : http://www.fiverr.com/s2/0e44853c56
 
 *******************
 summary
@@ -56,18 +54,9 @@ Authentication
 **************************
 
 **admin** :
-username: admin@gmail.com
-password: abc123
-
-**manager** :
-username: example@example.com
-password: abc123
-
-**manager** :
-username: nawjeshbd@gmail.com
-password: abc123
+username: gencare@gmail.com
+password: gencare
 
 
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
 
-Visit Urls : http://www.fiverr.com/s2/0e44853c56
+
