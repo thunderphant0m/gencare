@@ -605,5 +605,3 @@ $("#user_image").on("change", function() {
     $this->load->view('backend/footer');
 
 ?>
-
-//GitPush Echo this!//
